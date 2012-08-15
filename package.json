@@ -1,0 +1,23 @@
+{
+  "name":         "coffee-script-browser",
+  "description":  "Unfancy JavaScript",
+  "keywords":     ["javascript", "language", "coffeescript", "compiler", "browser"],
+  "author":       "Christopher Fredén",
+  "version":      "1.3.3",
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "https://raw.github.com/jashkenas/coffee-script/master/LICENSE"
+  }],
+  "engines":      {
+    "node":       ">=0.4.0"
+  },
+  "bugs":         "https://github.com/icetan/coffee-script-browser/issues",
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/icetan/coffee-script-browser.git"
+  },
+  "devDependencies": {
+    "uglify-js":  ">=1.0.0",
+    "jison":      ">=0.2.0"
+  }
+}
