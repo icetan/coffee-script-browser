@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git://github.com/icetan/coffee-script-browser.git"
   },
+  "main": "./index.js",
   "ender": "noop",
   "devDependencies": {
     "uglify-js":  ">=1.0.0",
